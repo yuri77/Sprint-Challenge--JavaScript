@@ -261,6 +261,8 @@ populationTotal = zooAnimals.reduce(
 
 console.log(populationTotal);
 
+//solutions above
+
 /*
 
 Stretch: If you haven't already, convert your array method callbacks into arrow functions.
